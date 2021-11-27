@@ -110,6 +110,7 @@ body{
     background: rgb(247, 247, 247);
     padding: 25px;
     height: 100%;
+    margin: auto;
 }
 .items .card:hover{
     border:2px solid rgb(49, 49, 236);
